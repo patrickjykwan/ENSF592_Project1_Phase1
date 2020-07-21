@@ -2,10 +2,10 @@
 This repository stores the files required for running Phase 1 of the ENSF592 Project. Members of this project group are: Jenny (Tong) Xi, Karen Zhang, Patrick Kwan.
 
 Attached to this repository are 4 python files:
-traffic.py : used to upload provided City of Calgary data onto a Mongodb cloud
-read_db.py : contains all the necessary definitions to read, sort and analyze the City of Calgary Traffic Data stored on Mongodb
-Map.py : contains all the necessary definitons to produce a map with a marker denoting maximum traffic volume/incidents
-GUI_main.py : acts as the interface that uses all the definitions in read_db.py and Map.py to show the user plots and maps about Calgary's Traffic data.
+1. traffic.py : used to upload provided City of Calgary data onto a Mongodb cloud
+2. read_db.py : contains all the necessary definitions to read, sort and analyze the City of Calgary Traffic Data stored on Mongodb
+3. Map.py : contains all the necessary definitons to produce a map with a marker denoting maximum traffic volume/incidents
+4. GUI_main.py : acts as the interface that uses all the definitions in read_db.py and Map.py to show the user plots and maps about Calgary's Traffic data.
 
 # Instructions
 1. Run mongod.exe
