@@ -13,12 +13,12 @@ Attached to this repository are 4 python files:
 3. Run traffic.py once to add all the traffic data files onto the Mongodb cloud
 4. Using the mongo.exe command prompt and type show dbs. This should result in the following output.
 
-CalgaryTrafficAccident2016  0.000GB__
-CalgaryTrafficAccident2017  0.001GB__
-CalgaryTrafficAccident2018  0.001GB__
-CalgaryTrafficVol2016       0.001GB__
-CalgaryTrafficVol2017       0.001GB__
-CalgaryTrafficVol2018       0.001GB__
+CalgaryTrafficAccident2016  0.000GB  
+CalgaryTrafficAccident2017  0.001GB  
+CalgaryTrafficAccident2018  0.001GB  
+CalgaryTrafficVol2016       0.001GB  
+CalgaryTrafficVol2017       0.001GB  
+CalgaryTrafficVol2018       0.001GB  
 
 5. Run GUI_main.py
 
